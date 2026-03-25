@@ -1,0 +1,27 @@
+{
+  "menu": {
+    "onigiri": [
+      { "name": "Spicy Tuna", "desc": "Seasoned rice, spicy tuna filling, wrapped in nori" },
+      { "name": "Salmon", "desc": "Seasoned rice, salmon filling, wrapped in nori" },
+      { "name": "Teriyaki Chicken", "desc": "Seasoned rice, teriyaki chicken filling, wrapped in nori" },
+      { "name": "Shrimp Tempura", "desc": "Seasoned rice, crispy shrimp tempura filling, wrapped in nori" }
+    ],
+    "japdogs": [
+      { "name": "The Classic JapDog", "desc": "100% all beef hotdog topped with kewpie mayo, house made eel sauce, furikake, and green onions" },
+      { "name": "Teriyaki JapDog", "desc": "All beef hotdog with house teriyaki glaze, kewpie mayo, sesame seeds, and green onions" },
+      { "name": "Spicy JapDog", "desc": "All beef hotdog with spicy mayo, sriracha, crispy onions, and furikake" }
+    ],
+    "sides": [
+      { "name": "Edamame", "desc": "Steamed and seasoned with sea salt" },
+      { "name": "Miso Soup", "desc": "Traditional dashi broth with tofu, wakame, and green onion" },
+      { "name": "Rotating Specials", "desc": "Follow us on Instagram for limited-time menu items at each pop-up" }
+    ]
+  },
+  "locations": [
+    { "name": "Pelican to Mars", "address": "2678 Government St", "city": "Baton Rouge" },
+    { "name": "Radio Bar", "address": "3079 Government St", "city": "Baton Rouge" },
+    { "name": "The Library", "address": "3629 Prytania St", "city": "New Orleans" },
+    { "name": "Oak St Brewery", "address": "8203 Oak St", "city": "New Orleans" },
+    { "name": "Grain Creations", "address": "14141 Airline Hwy", "city": "Baton Rouge" }
+  ]
+}
