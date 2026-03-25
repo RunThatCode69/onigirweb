@@ -14,7 +14,6 @@
     "sides": [
       { "name": "Edamame", "desc": "Steamed and seasoned with sea salt" },
       { "name": "Miso Soup", "desc": "Traditional dashi broth with tofu, wakame, and green onion" },
-      { "name": "Rotating Specials", "desc": "Follow us on Instagram for limited-time menu items at each pop-up" }
     ]
   },
   "locations": [
