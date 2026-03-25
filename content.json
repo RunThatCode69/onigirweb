@@ -1,15 +1,14 @@
 {
   "menu": {
     "onigiri": [
-      { "name": "Spicy Tuna", "desc": "Seasoned rice, spicy tuna filling, wrapped in nori" },
-      { "name": "Salmon", "desc": "Seasoned rice, salmon filling, wrapped in nori" },
-      { "name": "Teriyaki Chicken", "desc": "Seasoned rice, teriyaki chicken filling, wrapped in nori" },
-      { "name": "Shrimp Tempura", "desc": "Seasoned rice, crispy shrimp tempura filling, wrapped in nori" }
+      { "name": "Caramelized Beef", "desc": "Seasoned rice, caramelized beef, wrapped in nori" },
+      { "name": "Snowkrab (GF)", "desc": "Seasoned rice, snow crab salad, wrapped in nori — gluten free available" },
+      { "name": "Spicy Salmon (GF)", "desc": "Seasoned rice, spicy salmon with mayo, wrapped in nori — gluten free available" },
+      { "name": "Kimchi Cheese Corn", "desc": "Seasoned rice, kimchi, cheese, corn, wrapped in nori" }
     ],
     "japdogs": [
-      { "name": "The Classic JapDog", "desc": "100% all beef hotdog topped with kewpie mayo, house made eel sauce, furikake, and green onions" },
-      { "name": "Teriyaki JapDog", "desc": "All beef hotdog with house teriyaki glaze, kewpie mayo, sesame seeds, and green onions" },
-      { "name": "Spicy JapDog", "desc": "All beef hotdog with spicy mayo, sriracha, crispy onions, and furikake" }
+      { "name": "Japadog", "desc": "Japanese-style hot dog topped with eel sauce, kewpie mayo, furikake, fried shallots" },
+      { "name": "Snowdog", "desc": "Japadog base topped with snow crab salad" }
     ]
   },
   "locations": [
