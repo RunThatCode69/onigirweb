@@ -10,10 +10,6 @@
       { "name": "The Classic JapDog", "desc": "100% all beef hotdog topped with kewpie mayo, house made eel sauce, furikake, and green onions" },
       { "name": "Teriyaki JapDog", "desc": "All beef hotdog with house teriyaki glaze, kewpie mayo, sesame seeds, and green onions" },
       { "name": "Spicy JapDog", "desc": "All beef hotdog with spicy mayo, sriracha, crispy onions, and furikake" }
-    ],
-    "sides": [
-      { "name": "Edamame", "desc": "Steamed and seasoned with sea salt" },
-      { "name": "Miso Soup", "desc": "Traditional dashi broth with tofu, wakame, and green onion" }
     ]
   },
   "locations": [
